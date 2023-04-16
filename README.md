@@ -1,1 +1,1 @@
-# amazonscraper
+# Amazon Web Scraper
